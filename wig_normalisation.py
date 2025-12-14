@@ -13,7 +13,9 @@ output_tsv_normalised = []
 for wig in sorted(glob.glob("*_phyloP.wig")):
     with open(wig, "r") as f:
         lines = f.readlines()
-        mirna_id = os.path.basename(wig).split("_")[0]
+        mirna_id = os.path.basename(wig)
+        mirna_id = mirna_id.replace("_cleaned_phyloP.wig", "")
+        mirna_id = mirna_id.replace("_phyloP.wig", "")
 
         scores_str = [line.strip() for line in lines[1:] if line.strip() != ""]
 
