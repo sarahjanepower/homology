@@ -1,0 +1,3514 @@
+family_ID	species_support
+let-7	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-10	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-10000	
+mir-10001	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-10002	
+mir-10003	
+mir-10004	
+mir-10005	
+mir-10006	
+mir-10007	
+mir-10008	
+mir-10009	
+mir-10010	
+mir-10011	
+mir-10012	
+mir-10013	bac,bta,ssc
+mir-10014	
+mir-10015	bac,bta,pku,ssc
+mir-10016	
+mir-10017	
+mir-10018	bac,ssc
+mir-10019	
+mir-10020	bta
+mir-101	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-10161	bta
+mir-10162	bac,bta
+mir-10163	bta,cfa,ssc
+mir-10164	bta
+mir-10165	bac,bta
+mir-10166	bta
+mir-10167	bac,bta
+mir-10168	bta
+mir-10169	bac,bta
+mir-10170	bta
+mir-10171	bac,bta
+mir-10172	bac,bta
+mir-10173	bac,bta,ssc
+mir-10174	
+mir-10175	bac,bta,ssc
+mir-10176	bac,bta
+mir-10177	bac,bta,hsa
+mir-10178	bac,bta
+mir-10179	bac,bta
+mir-10180	bta
+mir-10181	bac,bta,ssc
+mir-10182	bta
+mir-10183	bac,bta,cfa,ssc
+mir-10184	bta
+mir-10185	bac,bta,cfa,hsa,laf,mmu
+mir-10225	bac,bta
+mir-10226	hsa
+mir-103	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-10382	bac,bta,ssc
+mir-10383	ssc
+mir-10384	ssc
+mir-10386	ssc
+mir-10387	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-10388	ssc
+mir-10389	bac,ssc
+mir-10390	ssc
+mir-10391	ssc
+mir-10392	hsa
+mir-10393	hsa
+mir-10394	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-10395	bac,bta,hsa,laf,mmu
+mir-10396	hsa
+mir-10397	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-10398	hsa
+mir-10399	hsa
+mir-10400	bac,bta,cfa,hsa,laf,mmu,pku
+mir-10401	hsa
+mir-105	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-10522	hsa
+mir-10523	hsa
+mir-10524	bac,bta,cfa,hsa
+mir-10525	hsa
+mir-10526	hsa
+mir-10527	bac,bta,hsa,laf,mmu,pku
+mir-11181	cfa,hsa,laf,ssc
+mir-11399	hsa
+mir-11400	hsa,ssc
+mir-11401	hsa
+mir-1178	bac,hsa
+mir-1179	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-1180	cfa,hsa,laf
+mir-1181	bac,cfa,hsa,laf,ssc
+mir-1182	hsa,laf
+mir-1183	hsa
+mir-1184	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1188	bac,cfa,hsa,mmu,ssc
+mir-1190	mmu
+mir-1191	mmu
+mir-1193	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1195	mmu
+mir-11971	bta
+mir-11972	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-11973	bac,bta
+mir-11974	bta
+mir-11975	bta
+mir-11976	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-11977	bta
+mir-11978	bac,bta
+mir-11979	bta
+mir-11980	bta
+mir-11981	bac,bta,ssc
+mir-11982	bac,bta
+mir-11983	bac,bta
+mir-11984	bta
+mir-11985	bta
+mir-11986	bta,sha
+mir-11987	bta
+mir-11988	bta
+mir-11989	bac,bta,hsa,laf,pku,ssc
+mir-1199	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-11990	bta
+mir-11991	bta
+mir-11992	bta
+mir-11993	bta
+mir-11994	bta
+mir-11995	bta
+mir-11996	bac,bta,cfa,hsa,laf,oan,pku,ssc
+mir-11997	bac,bta
+mir-11998	bta,sha
+mir-11999	bta
+mir-1200	bac,hsa,ssc
+mir-12000	bac,bta
+mir-12001	bta
+mir-12002	bta
+mir-12003	bta
+mir-12004	bta
+mir-12005	bta
+mir-12006	bta
+mir-12007	bta
+mir-12008	bta
+mir-12009	bta
+mir-12010	bta
+mir-12011	bta
+mir-12012	bac,bta
+mir-12013	bta
+mir-12014	bta
+mir-12015	bta
+mir-12016	bta
+mir-12017	bac,bta,ssc
+mir-12018	bac,bta,cfa,hsa,laf,pku,ssc
+mir-12019	bta
+mir-1202	hsa
+mir-12020	bta
+mir-12021	bta
+mir-12022	bta
+mir-12023	bac,bta,cfa,laf
+mir-12024	bta
+mir-12025	bac,bta
+mir-12026	bac,bta,cfa,hsa,laf,pku,ssc
+mir-12027	bta
+mir-12028	bta
+mir-12029	bac,bta
+mir-1203	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-12030	bac,bta,cfa,hsa,mmu,ssc
+mir-12031	bta
+mir-12032	bta
+mir-12033	bta
+mir-12034	bta
+mir-12035	bta
+mir-12036	bac,bta,cfa
+mir-12037	bta
+mir-12038	bta,laf
+mir-12039	bac,bta,cfa,laf,ssc
+mir-1204	bac,cfa,hsa
+mir-12040	bta
+mir-12041	bac,bta
+mir-12042	bta
+mir-12043	bac,bta
+mir-12044	bta
+mir-12045	bta
+mir-12046	bta
+mir-12047	bta
+mir-12048	bta
+mir-12049	bac,bta
+mir-1205	bac,bta,cfa,hsa,mmu
+mir-12050	bta
+mir-12051	bac,bta,cfa,hsa,mmu,oan,pku,ssc
+mir-12052	bta
+mir-12053	bta
+mir-12054	bac,bta,ssc
+mir-12055	bta
+mir-12056	bac,bta
+mir-12057	bta
+mir-12058	bta
+mir-12059	bac,bta
+mir-1206	cfa,hsa
+mir-12060	bta
+mir-12061	bac,bta
+mir-12062	bta
+mir-12063	bac,bta
+mir-12064	bta
+mir-1207	hsa
+mir-12072	
+mir-12073	
+mir-12074	
+mir-12075	
+mir-12076	
+mir-12077	
+mir-12078	
+mir-12079	
+mir-1208	hsa
+mir-12080	
+mir-12081	
+mir-12082	
+mir-12083	
+mir-12084	
+mir-12085	
+mir-12086	
+mir-12087	bac,bta,cfa,hsa,laf,oan,ssc
+mir-12090	
+mir-12091	
+mir-12092	
+mir-12093	
+mir-12094	
+mir-12095	
+mir-12113	hsa
+mir-12114	hsa
+mir-12115	hsa
+mir-12116	hsa
+mir-12117	hsa
+mir-12118	hsa
+mir-12119	hsa
+mir-12120	hsa
+mir-12121	bac,bta,cfa,hsa,mmu,ssc
+mir-12122	hsa,ssc
+mir-12123	hsa
+mir-12124	hsa
+mir-12125	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-12126	hsa
+mir-12127	bac,hsa
+mir-12128	hsa
+mir-12129	hsa
+mir-12130	hsa
+mir-12131	hsa
+mir-12132	hsa
+mir-12135	bac,bta,cfa,hsa,laf,pku,sha,ssc
+mir-12136	hsa,laf,mmu,sha
+mir-12178	mmu
+mir-12179	mmu
+mir-12180	mmu
+mir-12181	mmu
+mir-12182	mmu
+mir-12183	mmu
+mir-12184	mmu
+mir-12185	mmu
+mir-12186	mmu
+mir-12187	mmu
+mir-12188	mmu
+mir-12189	mmu
+mir-12190	mmu
+mir-12191	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-12192	mmu
+mir-12193	mmu
+mir-12194	mmu
+mir-12195	mmu
+mir-12196	mmu
+mir-12197	mmu
+mir-12198	mmu
+mir-12199	mmu
+mir-122	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-12200	mmu
+mir-12201	mmu
+mir-12202	mmu
+mir-12203	mmu
+mir-12204	mmu
+mir-12205	mmu
+mir-12206	mmu
+mir-1224	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1225	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1226	hsa
+mir-1227	hsa
+mir-1228	hsa
+mir-1229	hsa
+mir-12296	
+mir-12297	
+mir-12298	sha
+mir-12299	sha
+mir-1230	hsa
+mir-12300	sha
+mir-12301	sha
+mir-12302	
+mir-12303	
+mir-12304	
+mir-12305	
+mir-12306	
+mir-12307	
+mir-12308	oan,sha
+mir-12309	
+mir-1231	hsa,mmu
+mir-12310	
+mir-12311	
+mir-12312	sha
+mir-12313	
+mir-12314	
+mir-12315	
+mir-12316	sha
+mir-12317	sha
+mir-12318	
+mir-12319	
+mir-1232	hsa
+mir-12320	
+mir-12321	
+mir-12322	
+mir-12323	sha
+mir-12324	sha
+mir-12325	
+mir-12326	sha
+mir-12327	
+mir-12328	
+mir-12329	sha
+mir-1233	hsa
+mir-12330	
+mir-12331	
+mir-12332	sha
+mir-12333	
+mir-12334	
+mir-12335	
+mir-12336	
+mir-12337	
+mir-12338	
+mir-12339	
+mir-1234	hsa
+mir-12340	
+mir-12341	sha
+mir-12342	sha
+mir-12343	sha
+mir-12344	
+mir-12345	
+mir-12346	
+mir-12347	sha
+mir-12348	
+mir-12349	sha
+mir-1235	hsa
+mir-12350	sha
+mir-12351	
+mir-12352	
+mir-12353	sha
+mir-12354	sha
+mir-12355	sha
+mir-12356	
+mir-12357	
+mir-12358	sha
+mir-12359	sha
+mir-1236	bac,hsa
+mir-12360	sha
+mir-12361	sha
+mir-12362	
+mir-12363	
+mir-12364	sha
+mir-12365	
+mir-12366	sha
+mir-12367	
+mir-12368	sha
+mir-12369	
+mir-1237	hsa
+mir-12370	
+mir-12371	
+mir-12372	
+mir-12373	
+mir-12374	
+mir-12375	
+mir-12376	sha
+mir-12377	
+mir-12378	
+mir-12379	sha
+mir-1238	hsa
+mir-12380	sha
+mir-12381	
+mir-12382	
+mir-12383	
+mir-12384	sha
+mir-12385	sha
+mir-12386	
+mir-12387	
+mir-12388	
+mir-12389	
+mir-1239	hsa
+mir-12390	
+mir-12391	sha
+mir-12392	sha
+mir-12393	sha
+mir-12394	sha
+mir-12395	sha
+mir-12396	sha
+mir-12397	sha
+mir-12398	
+mir-12399	
+mir-124	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1240	bac,hsa
+mir-12400	
+mir-12401	
+mir-12402	sha
+mir-12403	sha
+mir-12404	sha
+mir-12405	sha
+mir-12406	sha
+mir-12407	sha
+mir-12408	
+mir-12409	sha
+mir-1241	hsa
+mir-12410	
+mir-12411	
+mir-12412	
+mir-1243	hsa
+mir-1244	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1245	hsa
+mir-1246	bac,bta,hsa,laf
+mir-1247	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1248	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-1249	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1250	hsa
+mir-1251	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-1252	hsa
+mir-1253	hsa
+mir-1255	bac,bta,cfa,hsa,laf,pku,ssc
+mir-1256	bta,hsa
+mir-1257	hsa
+mir-1258	hsa,mmu
+mir-126	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1260	bac,bta,cfa,hsa,laf,ssc
+mir-1261	bac,bta,cfa,hsa,laf,pku,ssc
+mir-1262	hsa
+mir-1263	hsa
+mir-1265	hsa
+mir-1266	hsa
+mir-1267	hsa
+mir-1268	bta,cfa,hsa,mmu
+mir-1269	hsa
+mir-127	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1270	hsa
+mir-1271	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1273	hsa
+mir-1275	hsa
+mir-1276	hsa
+mir-1277	bac,bta,cfa,hsa,laf,ssc
+mir-1278	hsa
+mir-1279	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-128	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1281	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-1282	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-1284	bac,bta,cfa,hsa,laf,ssc
+mir-1285	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1286	hsa
+mir-1287	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1288	hsa
+mir-1289	hsa
+mir-129	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1290	hsa
+mir-1291	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1292	hsa
+mir-1293	hsa
+mir-1295	hsa
+mir-1296	bac,bta,cfa,hsa,laf,pku,ssc
+mir-1297	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-1298	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1299	hsa
+mir-130	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1301	bta,cfa,hsa,laf,pku
+mir-1302	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1303	hsa
+mir-1304	hsa
+mir-1305	hsa,laf
+mir-1306	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-1307	bac,bta,cfa,hsa,laf,pku,ssc
+mir-132	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1321	hsa
+mir-1322	hsa
+mir-1323	hsa
+mir-1324	hsa
+mir-1325	oan
+mir-1326	oan
+mir-1327	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1329	bac,laf,oan,sha,ssc
+mir-133	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-134	bac,bta,cfa,hsa,mmu,pku
+mir-1340	oan
+mir-1342	oan
+mir-1343	bac,bta,cfa,hsa,laf,oan,pku,ssc
+mir-1344	oan
+mir-1345	oan
+mir-1346	oan
+mir-1349	oan
+mir-135	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1350	oan
+mir-1351	oan
+mir-1353	oan
+mir-1355	oan
+mir-1356	oan
+mir-1357	oan
+mir-1358	oan
+mir-136	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1360	oan
+mir-1361	oan
+mir-1364	oan
+mir-1365	oan
+mir-1366	oan
+mir-137	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1370	oan
+mir-1372	oan
+mir-1373	oan
+mir-1374	oan
+mir-1375	oan
+mir-1376	oan
+mir-1377	oan
+mir-1379	oan
+mir-138	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1380	oan
+mir-1381	oan
+mir-1384	oan
+mir-1385	oan
+mir-1386	oan
+mir-1387	oan
+mir-1388	bac,bta,laf,oan,pku,sha,ssc
+mir-1389	oan
+mir-139	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1390	oan
+mir-1391	oan
+mir-1392	oan
+mir-1393	oan
+mir-1395	oan
+mir-1397	oan,sha
+mir-1398	oan
+mir-140	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1400	oan
+mir-1401	oan
+mir-1404	oan
+mir-1405	oan
+mir-1408	oan
+mir-1409	oan
+mir-1410	oan
+mir-1412	oan
+mir-1413	oan
+mir-1414	oan
+mir-1415	oan
+mir-1419	oan
+mir-142	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1420	oan
+mir-1421	oan
+mir-1422	oan
+mir-1426	oan
+mir-143	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1434	bac,bta,cfa,pku,ssc
+mir-144	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-145	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-146	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1461	
+mir-1468	bac,bta,cfa,hsa,laf,pku,ssc
+mir-1469	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-147	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-1470	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1471	bac,bta,cfa,hsa,laf,ssc
+mir-148	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-149	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-15	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-150	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-153	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1537	hsa
+mir-1538	hsa
+mir-1539	hsa
+mir-154	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1540	sha
+mir-1541	
+mir-1542	sha
+mir-1543	sha
+mir-1544	
+mir-1545	
+mir-1546	sha
+mir-1547	sha
+mir-1548	sha
+mir-1549	sha
+mir-155	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-1584	bta
+mir-1587	hsa
+mir-1597	cfa,hsa,laf,mmu,sha,ssc
+mir-1603	bta
+mir-1643	sha
+mir-1668	mmu
+mir-17	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1721	bta
+mir-1777	bta,cfa,hsa,ssc
+mir-1805	sha
+mir-181	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1814	bac,bta
+mir-182	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-1825	hsa
+mir-1827	hsa
+mir-183	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1835	bac,bta,cfa
+mir-1836	bac,cfa
+mir-1837	cfa,hsa,pku
+mir-1838	cfa
+mir-1839	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-184	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-1840	bac,bta,cfa,hsa,laf,ssc
+mir-1841	cfa
+mir-1842	bac,bta,cfa,pku,ssc
+mir-1843	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1844	cfa
+mir-185	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-186	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-187	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-188	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1892	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-1893	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1894	bac,bta,hsa,mmu
+mir-1895	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1896	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-1897	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-1898	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1899	mmu,ssc
+mir-19	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-190	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1900	mmu
+mir-1901	bac,bta,cfa,hsa,laf,mmu,sha,ssc
+mir-1902	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1903	bac,cfa,hsa,laf,mmu
+mir-1904	mmu
+mir-1905	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1906	mmu
+mir-1907	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-1908	bac,cfa,hsa,laf,ssc
+mir-1909	hsa
+mir-191	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1910	hsa
+mir-1911	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1912	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1913	hsa
+mir-1914	hsa
+mir-1915	hsa
+mir-192	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1927	mmu
+mir-1928	mmu
+mir-1929	mmu
+mir-193	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1930	mmu
+mir-1931	mmu
+mir-1932	mmu
+mir-1933	mmu
+mir-1934	mmu
+mir-1936	mmu
+mir-1938	mmu
+mir-194	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-1941	mmu
+mir-1942	mmu
+mir-1943	mmu
+mir-1945	bta,mmu,ssc
+mir-1947	mmu
+mir-1948	mmu
+mir-1949	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1950	mmu
+mir-1951	mmu
+mir-1952	mmu
+mir-1953	mmu
+mir-1954	mmu
+mir-1955	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-1956	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-1958	mmu
+mir-196	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1960	mmu
+mir-1961	mmu
+mir-1963	mmu
+mir-1964	mmu
+mir-1966	mmu
+mir-1967	mmu
+mir-1968	mmu
+mir-1969	mmu
+mir-197	bac,bta,cfa,hsa,laf,ssc
+mir-1970	mmu
+mir-1971	mmu
+mir-1972	hsa
+mir-1973	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-1976	hsa
+mir-198	hsa
+mir-1981	mmu
+mir-1982	mmu
+mir-199	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-202	bac,bta,cfa,hsa,laf,pku,ssc
+mir-203	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-204	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-205	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-2052	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-2053	bac,bta,cfa,hsa,laf,ssc
+mir-2054	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-207	bac,bta,cfa,mmu,ssc
+mir-208	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-21	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-210	sha
+mir-2110	hsa
+mir-2113	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-2114	cfa,hsa,laf
+mir-2115	hsa
+mir-2116	hsa
+mir-2117	bac,bta,hsa,ssc
+mir-2136	mmu
+mir-2137	mmu
+mir-2139	bta,cfa,hsa,laf,mmu,pku,ssc
+mir-214	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-216	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-217	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-218	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-2183	mmu
+mir-219	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-22	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-221	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-223	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-224	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-2276	hsa
+mir-2277	bac,hsa,laf,ssc
+mir-2278	hsa
+mir-2284	bac,bta
+mir-2286	bta
+mir-2287	bta
+mir-2288	bac,bta
+mir-2289	bta
+mir-2290	bac,bta
+mir-2291	bta
+mir-2292	bta
+mir-2293	bac,bta
+mir-2294	bac,bta,ssc
+mir-2295	bta
+mir-2296	bta
+mir-2297	bac,bta
+mir-2298	bta
+mir-2299	bac,bta
+mir-23	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-2300	bta
+mir-2301	bta
+mir-2302	bta
+mir-2303	bta
+mir-2304	bta
+mir-2305	bta
+mir-2306	bta
+mir-2307	bta
+mir-2308	bta
+mir-2309	bta
+mir-2310	bta
+mir-2311	bta
+mir-2312	
+mir-2313	bac,bta
+mir-2314	bac,bta
+mir-2315	bac,bta
+mir-2316	bta
+mir-2317	bta
+mir-2318	bta,ssc
+mir-2319	bac,bta
+mir-2320	bac,bta,ssc
+mir-2321	bta
+mir-2322	bta
+mir-2323	bta
+mir-2324	bta
+mir-2325	bac,bta
+mir-2326	bta
+mir-2327	bta
+mir-2328	bac,bta,laf,ssc
+mir-2329	bta
+mir-2330	bac,bta
+mir-2331	bta
+mir-2332	bta
+mir-2333	bta
+mir-2334	bac,bta,ssc
+mir-2335	bta
+mir-2336	bta
+mir-2337	bta
+mir-2338	bta,hsa
+mir-2339	bta
+mir-2340	bta
+mir-2341	bta
+mir-2342	bta
+mir-2343	bta
+mir-2344	bta
+mir-2345	bta
+mir-2346	bta
+mir-2347	bta
+mir-2348	bta
+mir-2349	bac,bta
+mir-2350	bta
+mir-2351	bac,bta
+mir-2352	bac,bta,ssc
+mir-2353	bta
+mir-2354	bac,bta,cfa,ssc
+mir-2355	bac,bta,cfa,hsa,laf,mmu
+mir-2356	bac,bta
+mir-2357	bta
+mir-2358	bac,bta,ssc
+mir-2359	bta
+mir-2360	bac,bta
+mir-2361	bta
+mir-2362	bta
+mir-2363	bta
+mir-2364	bta
+mir-2365	bta
+mir-2366	bac,bta,hsa,ssc
+mir-2367	bta
+mir-2368	bac,bta
+mir-2369	bta
+mir-2370	bta
+mir-2371	bac,bta
+mir-2372	bta,ssc
+mir-2373	bta
+mir-2374	bta
+mir-2375	bta
+mir-2376	bac,bta
+mir-2377	bta
+mir-2378	bac,bta
+mir-2379	bta
+mir-2380	bta
+mir-2381	bta
+mir-2382	bac,bta,laf,pku,ssc
+mir-2383	bac,bta
+mir-2384	bac,bta,cfa,hsa,ssc
+mir-2385	bac,bta
+mir-2386	bta
+mir-2387	bac,bta,cfa,hsa,ssc
+mir-2388	bta
+mir-2389	bta
+mir-2390	bta
+mir-2392	bta,hsa
+mir-2393	bta
+mir-2394	bac,bta
+mir-2395	bta
+mir-2396	bac,bta
+mir-2397	bta
+mir-2398	bta
+mir-2399	bta
+mir-24	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-2400	bta
+mir-2401	bta
+mir-2402	bta
+mir-2403	bta
+mir-2404	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-2405	bac,bta
+mir-2406	bta
+mir-2407	bta
+mir-2408	bta
+mir-2409	bta
+mir-2410	bta
+mir-2411	bac,bta,laf,ssc
+mir-2412	bac,bta,ssc
+mir-2413	bta
+mir-2414	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-2415	bta
+mir-2416	bac,bta,cfa
+mir-2417	bta
+mir-2418	bta
+mir-2419	bta
+mir-2420	bta
+mir-2421	bta
+mir-2422	bta
+mir-2423	bta
+mir-2424	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-2425	bta
+mir-2426	bta
+mir-2427	bac,bta,ssc
+mir-2428	bac,bta,laf,pku,ssc
+mir-2429	bta
+mir-2430	bta
+mir-2431	bac,bta
+mir-2432	bta
+mir-2433	bac,bta,cfa,hsa,laf,ssc
+mir-2434	bta
+mir-2435	bta
+mir-2436	bac,bta
+mir-2437	bta
+mir-2438	bta
+mir-2439	bac,bta,cfa,pku,ssc
+mir-2440	bta
+mir-2441	bta
+mir-2442	bac,bta,ssc
+mir-2443	bta
+mir-2444	bac,bta
+mir-2446	bta
+mir-2447	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-2448	bta
+mir-2449	bta
+mir-2450	bta
+mir-2451	bta
+mir-2452	bta
+mir-2453	bta
+mir-2454	bac,bta
+mir-2455	bta
+mir-2456	bta
+mir-2457	bta
+mir-2458	bta
+mir-2459	bac,bta,cfa,hsa,ssc
+mir-2460	bta
+mir-2461	bta
+mir-2462	bta
+mir-2463	bac,bta,hsa,laf,pku,ssc
+mir-2464	bac,bta
+mir-2465	bta
+mir-2466	bta
+mir-2467	bta,hsa
+mir-2468	bta
+mir-2469	bac,bta
+mir-2470	bac,bta
+mir-2471	bta
+mir-2472	bta
+mir-2473	bta
+mir-2474	bta,ssc
+mir-2475	bac,bta
+mir-2477	bta
+mir-2478	bac,bta
+mir-2479	bta
+mir-2480	bta
+mir-2481	bta
+mir-2482	bac,bta,cfa,hsa,laf,pku,ssc
+mir-2483	bac,bta,cfa,laf,pku,ssc
+mir-2484	bac,bta
+mir-2485	bta
+mir-2486	bta
+mir-2488	bac,bta,pku
+mir-2489	bta
+mir-25	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-26	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-2681	hsa
+mir-2682	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-2683	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-27	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-28	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-282	pku
+mir-2861	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-2881	bta
+mir-2882	bac,bta,cfa,hsa,pku,ssc
+mir-2883	bta
+mir-2885	bac,bta,hsa,laf,mmu,ssc
+mir-2886	bac,bta,hsa,ssc
+mir-2887	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-2888	bta
+mir-2889	bta
+mir-2890	bta
+mir-2891	bta
+mir-2892	bta
+mir-2893	bta
+mir-2894	bta
+mir-2895	bac,bta
+mir-2896	bta
+mir-2897	bac,bta,ssc
+mir-2898	bta
+mir-2899	bta
+mir-29	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-290	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-2900	bta
+mir-2901	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-2902	bta
+mir-2903	bac,bta,pku,ssc
+mir-2904	bac,bta,cfa,hsa,laf,pku
+mir-2909	bta,hsa
+mir-2917	bac,bta,hsa
+mir-2957	
+mir-296	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-2968	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-297	bac,bta,hsa,mmu,pku,sha,ssc
+mir-2970	oan,sha
+mir-298	hsa,mmu
+mir-2985	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-299	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-30	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-302	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3057	mmu
+mir-3058	mmu
+mir-3059	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3060	mmu
+mir-3061	mmu
+mir-3062	mmu
+mir-3063	mmu
+mir-3064	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-3065	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-3066	mmu
+mir-3067	mmu
+mir-3068	bac,laf,mmu
+mir-3069	bac,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-3070	mmu
+mir-3071	
+mir-3072	mmu
+mir-3073	mmu
+mir-3074	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-3075	mmu
+mir-3076	mmu
+mir-3077	mmu
+mir-3078	mmu
+mir-3079	mmu
+mir-3080	mmu
+mir-3081	mmu
+mir-3082	mmu
+mir-3083	mmu
+mir-3084	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-3085	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3086	mmu
+mir-3087	mmu
+mir-3088	mmu
+mir-3089	mmu
+mir-3090	mmu
+mir-3091	mmu
+mir-3092	mmu
+mir-3093	mmu
+mir-3094	mmu
+mir-3095	mmu
+mir-3097	mmu
+mir-3098	mmu
+mir-3099	mmu
+mir-31	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3100	mmu
+mir-3101	mmu
+mir-3102	mmu
+mir-3103	mmu
+mir-3104	mmu
+mir-3105	mmu
+mir-3106	mmu
+mir-3108	mmu
+mir-3109	mmu
+mir-3110	mmu
+mir-3112	mmu
+mir-3113	bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3115	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-3116	hsa
+mir-3117	hsa
+mir-3118	hsa
+mir-3119	hsa
+mir-3121	hsa
+mir-3122	hsa
+mir-3123	hsa
+mir-3124	hsa
+mir-3125	hsa
+mir-3126	hsa
+mir-3127	hsa
+mir-3128	hsa
+mir-3129	hsa
+mir-3130	hsa
+mir-3131	hsa
+mir-3132	hsa
+mir-3134	hsa
+mir-3135	hsa
+mir-3136	hsa
+mir-3137	hsa
+mir-3138	hsa
+mir-3139	hsa
+mir-3140	hsa
+mir-3141	bac,bta,cfa,hsa,laf,pku,ssc
+mir-3142	hsa
+mir-3143	hsa
+mir-3144	hsa
+mir-3145	hsa
+mir-3146	hsa
+mir-3147	hsa
+mir-3148	hsa
+mir-3149	hsa
+mir-3150	hsa
+mir-3151	hsa
+mir-3152	hsa
+mir-3153	hsa
+mir-3154	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-3155	hsa
+mir-3156	hsa
+mir-3157	hsa
+mir-3158	hsa
+mir-3159	hsa
+mir-3160	hsa
+mir-3161	hsa
+mir-3162	hsa
+mir-3163	hsa
+mir-3164	hsa
+mir-3165	hsa
+mir-3166	hsa
+mir-3167	hsa
+mir-3168	hsa
+mir-3169	hsa
+mir-3170	hsa
+mir-3171	hsa
+mir-3173	hsa
+mir-3174	hsa
+mir-3175	hsa
+mir-3176	hsa
+mir-3177	hsa
+mir-3178	hsa
+mir-3179	hsa
+mir-3180	hsa
+mir-3181	bac,cfa,hsa,laf
+mir-3182	hsa
+mir-3183	hsa
+mir-3184	
+mir-3185	hsa
+mir-3186	hsa
+mir-3187	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3188	hsa
+mir-3189	hsa
+mir-3190	hsa
+mir-3192	hsa
+mir-3193	hsa
+mir-3194	hsa
+mir-3195	hsa
+mir-3196	hsa
+mir-3197	hsa
+mir-3198	hsa,laf
+mir-3199	hsa
+mir-32	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-320	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3200	cfa,hsa,laf
+mir-3201	hsa
+mir-3202	hsa
+mir-322	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-324	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-325	bac,cfa,hsa,laf,mmu,sha,ssc
+mir-326	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-327	mmu
+mir-328	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-329	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-33	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-330	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-331	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-335	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-336	
+mir-337	hsa,laf,mmu,pku
+mir-338	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-339	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-34	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-340	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-341	mmu
+mir-342	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-343	mmu
+mir-3431	bac,bta,laf,ssc
+mir-3432	bac,bta
+mir-344	mmu
+mir-345	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-346	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-347	
+mir-3470	mmu
+mir-3471	mmu
+mir-3472	mmu
+mir-3473	mmu
+mir-3474	mmu
+mir-3475	mmu
+mir-349	
+mir-350	bac,bta,cfa,laf,mmu,pku
+mir-351	mmu
+mir-352	
+mir-3529	
+mir-3533	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3541	
+mir-3542	
+mir-3543	mmu
+mir-3544	
+mir-3547	mmu
+mir-3550	
+mir-3552	bac,bta,cfa,hsa,laf,mmu
+mir-3553	
+mir-3556	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3558	
+mir-3559	
+mir-3560	hsa,mmu
+mir-3561	
+mir-3562	mmu
+mir-3564	
+mir-3566	mmu
+mir-3568	mmu
+mir-3569	mmu
+mir-3570	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-3572	mmu
+mir-3573	
+mir-3574	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3577	hsa
+mir-3578	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3579	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3580	
+mir-3583	
+mir-3584	mmu
+mir-3587	bac,bta,cfa,hsa,laf,mmu,oan,ssc
+mir-3589	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3590	
+mir-3593	hsa,mmu
+mir-3594	
+mir-3600	
+mir-3601	
+mir-3602	
+mir-3604	
+mir-3605	bac,bta,hsa,pku,ssc
+mir-3606	hsa
+mir-3609	bta,cfa,hsa
+mir-361	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3610	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3611	hsa
+mir-3612	hsa
+mir-3613	bac,bta,cfa,hsa,laf,pku,sha,ssc
+mir-3614	hsa
+mir-3615	hsa
+mir-3616	hsa
+mir-3617	hsa
+mir-3618	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3619	hsa
+mir-362	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3620	hsa,mmu
+mir-3621	hsa
+mir-3622	hsa
+mir-363	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3646	hsa
+mir-3649	hsa
+mir-365	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3650	cfa,hsa,mmu
+mir-3651	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-3654	bac,bta,cfa,hsa,laf,mmu,pku,sha
+mir-3655	hsa
+mir-3657	hsa
+mir-3658	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-3659	hsa
+mir-3660	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-3661	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3662	bac,bta,cfa,hsa,laf,pku,ssc
+mir-3663	hsa
+mir-3664	hsa
+mir-3665	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-3666	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3667	hsa
+mir-3668	hsa
+mir-367	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-3670	hsa
+mir-3671	bac,hsa
+mir-3672	hsa
+mir-3674	hsa
+mir-3675	hsa
+mir-3677	hsa
+mir-3678	hsa
+mir-3679	hsa
+mir-368	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-3680	hsa
+mir-3681	hsa
+mir-3682	hsa
+mir-3683	hsa
+mir-3684	hsa
+mir-3685	hsa
+mir-3686	hsa
+mir-3688	hsa
+mir-3689	hsa
+mir-3690	hsa
+mir-3691	hsa
+mir-3692	hsa
+mir-370	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-3713	hsa
+mir-3714	hsa
+mir-373	hsa
+mir-374	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-375	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-378	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-379	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-383	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-384	bac,cfa,hsa,laf,mmu,ssc
+mir-3909	hsa
+mir-3910	hsa
+mir-3911	hsa
+mir-3912	hsa
+mir-3913	hsa
+mir-3914	hsa
+mir-3915	hsa
+mir-3916	hsa
+mir-3917	bac,bta,cfa,hsa,laf,mmu,sha,ssc
+mir-3918	hsa
+mir-3919	hsa
+mir-3920	hsa
+mir-3921	hsa
+mir-3922	hsa
+mir-3923	hsa
+mir-3924	hsa
+mir-3925	hsa
+mir-3926	hsa
+mir-3927	hsa
+mir-3928	hsa
+mir-3929	hsa
+mir-3934	hsa
+mir-3935	hsa
+mir-3936	hsa
+mir-3937	hsa
+mir-3938	hsa
+mir-3939	hsa
+mir-3940	hsa
+mir-3941	hsa
+mir-3942	hsa
+mir-3943	hsa
+mir-3944	hsa
+mir-3945	hsa
+mir-3955	bac,bta,ssc
+mir-3956	bac,bta
+mir-3957	bac,bta,ssc
+mir-3960	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-3961	mmu
+mir-3962	mmu
+mir-3963	mmu
+mir-3964	mmu
+mir-3965	mmu
+mir-3966	bac,bta,cfa,mmu,ssc
+mir-3967	mmu
+mir-3968	bta,mmu,pku,sha,ssc
+mir-3969	mmu
+mir-3970	mmu
+mir-3971	mmu
+mir-3972	hsa
+mir-3973	hsa
+mir-3974	bac,bta,cfa,hsa,laf,pku,ssc
+mir-3975	hsa,ssc
+mir-3977	bac,bta,cfa,hsa
+mir-3978	hsa
+mir-412	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-422	hsa
+mir-423	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-425	bac,bta,cfa,hsa,laf,mmu,oan,sha,ssc
+mir-4251	hsa
+mir-4252	cfa,hsa
+mir-4253	bac,bta,cfa,hsa,laf,pku,ssc
+mir-4254	hsa
+mir-4255	hsa
+mir-4256	hsa
+mir-4257	hsa
+mir-4258	hsa
+mir-4259	hsa
+mir-4260	hsa,pku
+mir-4261	cfa,hsa
+mir-4262	hsa
+mir-4263	hsa
+mir-4264	hsa
+mir-4265	hsa
+mir-4266	hsa
+mir-4267	hsa
+mir-4268	hsa
+mir-4269	hsa
+mir-4270	hsa
+mir-4271	bac,hsa,laf
+mir-4272	hsa
+mir-4273	bta,cfa,hsa
+mir-4274	hsa
+mir-4275	bta,cfa,hsa,ssc
+mir-4276	bac,cfa,hsa,pku
+mir-4277	hsa
+mir-4278	hsa
+mir-4279	hsa,laf
+mir-4280	bac,hsa
+mir-4281	hsa
+mir-4282	hsa
+mir-4283	hsa
+mir-4284	hsa
+mir-4285	hsa
+mir-4286	bac,bta,hsa,laf,ssc
+mir-4287	hsa
+mir-4288	hsa
+mir-4289	hsa
+mir-4290	hsa
+mir-4291	hsa
+mir-4292	hsa
+mir-4293	bac,cfa,hsa,laf,mmu
+mir-4294	hsa
+mir-4295	cfa,hsa,laf,pku
+mir-4296	hsa
+mir-4297	hsa
+mir-4298	hsa
+mir-4299	hsa
+mir-4300	hsa
+mir-4301	hsa
+mir-4302	hsa
+mir-4303	hsa
+mir-4304	hsa
+mir-4305	hsa
+mir-4306	hsa
+mir-4307	cfa,hsa
+mir-4308	hsa
+mir-4309	hsa
+mir-431	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4310	hsa
+mir-4311	hsa
+mir-4312	hsa
+mir-4313	hsa
+mir-4314	hsa
+mir-4315	bac,hsa,laf,mmu,ssc
+mir-4316	hsa
+mir-4317	hsa
+mir-4318	hsa
+mir-4319	hsa
+mir-432	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4320	hsa
+mir-4321	hsa,pku
+mir-4322	bac,bta,hsa
+mir-4323	hsa
+mir-4324	hsa
+mir-4325	hsa
+mir-4326	hsa
+mir-4327	hsa
+mir-4328	hsa
+mir-4329	hsa
+mir-433	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4330	hsa
+mir-4331	ssc
+mir-4332	bac,bta,cfa,ssc
+mir-4334	bac,ssc
+mir-4335	ssc
+mir-4337	ssc
+mir-4338	ssc
+mir-4339	ssc
+mir-434	mmu
+mir-4418	hsa
+mir-4420	hsa
+mir-4421	hsa
+mir-4422	hsa
+mir-4423	hsa
+mir-4424	hsa
+mir-4425	hsa
+mir-4426	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-4427	hsa
+mir-4428	hsa
+mir-4429	hsa
+mir-4430	hsa
+mir-4431	hsa
+mir-4432	hsa
+mir-4433	hsa
+mir-4434	hsa
+mir-4435	hsa
+mir-4436	hsa
+mir-4437	hsa
+mir-4438	hsa
+mir-4439	hsa
+mir-4440	hsa
+mir-4441	hsa
+mir-4442	cfa,hsa
+mir-4443	hsa
+mir-4444	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-4445	hsa
+mir-4446	hsa
+mir-4447	hsa,laf
+mir-4448	hsa
+mir-4449	bac,bta,cfa,hsa,ssc
+mir-4450	hsa
+mir-4451	bac,hsa
+mir-4452	hsa
+mir-4453	bac,bta,hsa,laf
+mir-4454	hsa
+mir-4455	hsa
+mir-4456	hsa
+mir-4457	hsa
+mir-4458	hsa
+mir-4460	hsa
+mir-4462	cfa,hsa,laf
+mir-4463	hsa
+mir-4464	hsa
+mir-4465	hsa
+mir-4466	hsa
+mir-4467	hsa
+mir-4468	cfa,hsa,laf,mmu,oan,sha,ssc
+mir-4469	hsa
+mir-4470	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-4471	hsa
+mir-4472	hsa
+mir-4473	hsa
+mir-4474	hsa
+mir-4475	hsa
+mir-4476	hsa
+mir-4477	hsa
+mir-4478	hsa
+mir-4479	hsa
+mir-448	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4480	hsa
+mir-4481	hsa
+mir-4482	hsa
+mir-4483	hsa
+mir-4484	hsa
+mir-4485	bac,bta,cfa,hsa,laf,mmu,sha,ssc
+mir-4486	hsa,laf
+mir-4487	hsa
+mir-4488	hsa
+mir-4489	hsa
+mir-449	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-4490	hsa
+mir-4491	hsa
+mir-4492	hsa
+mir-4493	hsa
+mir-4494	hsa
+mir-4495	hsa
+mir-4496	hsa
+mir-4497	hsa
+mir-4498	hsa
+mir-4499	hsa
+mir-450	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4500	hsa
+mir-4501	bac,hsa
+mir-4502	bac,bta,hsa,laf,sha
+mir-4503	hsa
+mir-4504	hsa
+mir-4505	cfa,hsa
+mir-4506	hsa
+mir-4507	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4508	hsa
+mir-4509	hsa
+mir-451	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-4510	hsa
+mir-4511	hsa
+mir-4512	hsa
+mir-4513	hsa
+mir-4514	hsa
+mir-4515	hsa
+mir-4516	hsa
+mir-4517	hsa
+mir-4518	hsa
+mir-4519	hsa
+mir-452	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4520	hsa
+mir-4521	hsa
+mir-4522	hsa
+mir-4523	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4524	hsa
+mir-4525	hsa
+mir-4526	hsa
+mir-4527	hsa
+mir-4528	hsa
+mir-4529	hsa
+mir-4530	hsa
+mir-4531	hsa
+mir-4533	hsa
+mir-4534	hsa
+mir-4535	hsa
+mir-4536	hsa
+mir-4537	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4538	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-4539	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-454	bac,bta,cfa,hsa,laf,oan,sha,ssc
+mir-4540	hsa
+mir-455	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-458	oan
+mir-460	oan,sha
+mir-463	mmu
+mir-4632	hsa
+mir-4633	hsa
+mir-4634	hsa
+mir-4635	hsa
+mir-4636	hsa
+mir-4637	hsa
+mir-4638	hsa
+mir-4639	hsa
+mir-4640	hsa
+mir-4641	hsa
+mir-4642	hsa
+mir-4643	hsa
+mir-4644	hsa
+mir-4645	hsa
+mir-4646	hsa
+mir-4647	hsa
+mir-4648	hsa
+mir-4649	hsa
+mir-465	mmu
+mir-4650	hsa
+mir-4651	hsa
+mir-4652	hsa
+mir-4653	hsa
+mir-4654	hsa
+mir-4655	hsa
+mir-4656	hsa
+mir-4657	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-4658	hsa
+mir-4659	hsa
+mir-466	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-4660	hsa
+mir-4661	hsa
+mir-4662	hsa
+mir-4663	hsa
+mir-4664	hsa
+mir-4665	bac,hsa,ssc
+mir-4666	hsa
+mir-4667	bac,cfa,hsa,pku,ssc
+mir-4668	hsa
+mir-4669	hsa
+mir-467	bta,hsa,mmu,pku,sha,ssc
+mir-4670	hsa
+mir-4671	hsa
+mir-4672	hsa
+mir-4673	hsa
+mir-4674	hsa
+mir-4675	hsa
+mir-4676	hsa
+mir-4677	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-4678	hsa
+mir-4679	hsa
+mir-468	mmu
+mir-4680	bac,bta,cfa,hsa,laf,pku,ssc
+mir-4681	cfa,hsa
+mir-4682	hsa
+mir-4683	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-4684	hsa
+mir-4685	hsa
+mir-4686	hsa
+mir-4687	bac,bta,cfa,hsa,laf,ssc
+mir-4688	hsa
+mir-4689	hsa
+mir-4690	hsa,laf
+mir-4691	hsa
+mir-4692	hsa
+mir-4693	hsa
+mir-4694	hsa
+mir-4695	hsa
+mir-4696	hsa
+mir-4697	hsa
+mir-4698	hsa
+mir-4699	hsa
+mir-4700	hsa
+mir-4701	bac,bta,hsa,pku,ssc
+mir-4703	hsa
+mir-4704	hsa
+mir-4705	hsa
+mir-4706	hsa
+mir-4707	hsa
+mir-4708	hsa
+mir-4709	hsa
+mir-471	mmu
+mir-4710	hsa
+mir-4711	hsa
+mir-4712	hsa
+mir-4713	hsa
+mir-4714	hsa
+mir-4715	hsa
+mir-4716	hsa
+mir-4717	hsa
+mir-4718	hsa,ssc
+mir-4719	hsa
+mir-4720	hsa
+mir-4721	bac,bta,hsa,laf,mmu,pku
+mir-4722	hsa
+mir-4723	hsa
+mir-4724	hsa
+mir-4725	hsa
+mir-4726	hsa
+mir-4727	hsa
+mir-4728	hsa
+mir-4729	hsa
+mir-4730	hsa
+mir-4731	hsa
+mir-4732	hsa
+mir-4733	hsa
+mir-4734	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-4735	hsa
+mir-4736	hsa
+mir-4737	hsa
+mir-4738	hsa
+mir-4739	hsa
+mir-4740	hsa
+mir-4741	hsa
+mir-4742	hsa
+mir-4743	hsa
+mir-4744	hsa
+mir-4745	bac,bta,cfa,hsa,ssc
+mir-4746	hsa
+mir-4747	hsa
+mir-4748	hsa
+mir-4749	hsa
+mir-4750	hsa
+mir-4751	hsa
+mir-4752	hsa
+mir-4753	hsa
+mir-4754	hsa
+mir-4755	hsa
+mir-4756	hsa
+mir-4757	hsa
+mir-4758	hsa
+mir-4759	hsa
+mir-4760	hsa
+mir-4761	hsa
+mir-4762	hsa
+mir-4763	hsa
+mir-4764	hsa
+mir-4765	hsa
+mir-4766	hsa
+mir-4767	hsa
+mir-4768	hsa
+mir-4769	hsa
+mir-4770	hsa
+mir-4771	hsa
+mir-4772	hsa
+mir-4773	hsa
+mir-4774	hsa
+mir-4775	hsa
+mir-4776	hsa
+mir-4777	hsa
+mir-4778	hsa
+mir-4779	hsa
+mir-4780	hsa
+mir-4781	hsa
+mir-4782	hsa
+mir-4783	hsa
+mir-4784	hsa
+mir-4785	bac,bta,hsa,laf,pku,ssc
+mir-4786	hsa
+mir-4787	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4788	hsa
+mir-4789	hsa
+mir-4790	hsa
+mir-4791	hsa
+mir-4793	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-4794	hsa
+mir-4795	hsa
+mir-4796	hsa
+mir-4797	hsa
+mir-4798	hsa
+mir-4799	hsa
+mir-4800	cfa,hsa
+mir-4801	hsa
+mir-4802	hsa
+mir-4803	hsa
+mir-4804	hsa
+mir-483	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-484	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-485	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-486	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-488	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-489	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-490	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-491	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-492	cfa,hsa
+mir-493	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-496	mmu
+mir-497	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-499	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-4999	hsa
+mir-500	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-5000	hsa
+mir-5001	hsa
+mir-5002	hsa
+mir-5003	hsa
+mir-5004	hsa
+mir-5006	bac,hsa
+mir-5007	hsa
+mir-5008	hsa
+mir-5009	hsa
+mir-5010	hsa
+mir-5011	hsa
+mir-503	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-504	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-5046	mmu
+mir-5047	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-505	sha
+mir-506	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-5087	hsa
+mir-5088	hsa
+mir-5089	hsa
+mir-5090	hsa
+mir-5091	hsa
+mir-5092	hsa
+mir-5093	hsa
+mir-5094	hsa
+mir-5099	mmu
+mir-5100	hsa,mmu
+mir-5101	mmu
+mir-5103	mmu
+mir-5104	mmu
+mir-5106	mmu
+mir-5107	mmu
+mir-5108	mmu
+mir-5110	mmu
+mir-5112	mmu
+mir-5113	mmu
+mir-5114	mmu
+mir-5116	mmu
+mir-5118	mmu
+mir-5119	mmu
+mir-512	
+mir-5120	mmu
+mir-5121	mmu
+mir-5122	mmu
+mir-5123	mmu
+mir-5124	mmu
+mir-5125	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-5126	cfa,mmu
+mir-5127	mmu
+mir-5128	mmu
+mir-5129	mmu
+mir-5130	bta,hsa,mmu,ssc
+mir-5131	mmu
+mir-5132	mmu
+mir-5134	mmu
+mir-5135	mmu
+mir-5136	mmu
+mir-515	hsa
+mir-5186	hsa
+mir-5187	hsa
+mir-5188	hsa
+mir-5189	hsa
+mir-5190	hsa
+mir-5191	hsa
+mir-5192	hsa
+mir-5193	hsa
+mir-5194	hsa
+mir-5195	hsa
+mir-5196	hsa
+mir-5197	hsa
+mir-540	mmu
+mir-541	bac,bta,hsa,laf,mmu,ssc
+mir-542	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-544	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-547	mmu
+mir-548	bta,hsa
+mir-549	hsa
+mir-550	hsa
+mir-551	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-552	hsa
+mir-553	hsa
+mir-554	hsa
+mir-555	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-556	hsa
+mir-557	hsa
+mir-5571	hsa
+mir-5579	hsa
+mir-558	hsa
+mir-5580	hsa
+mir-5581	hsa
+mir-5582	hsa
+mir-5583	hsa
+mir-5584	hsa
+mir-5585	hsa
+mir-5586	hsa
+mir-5587	hsa
+mir-5588	hsa
+mir-5589	hsa
+mir-559	hsa
+mir-5590	hsa
+mir-5591	hsa
+mir-561	hsa
+mir-5615	mmu
+mir-5616	mmu
+mir-5617	mmu
+mir-5618	mmu
+mir-5619	mmu
+mir-562	bac,bta,hsa
+mir-5620	mmu
+mir-5621	mmu
+mir-5622	mmu
+mir-5623	mmu
+mir-5624	mmu
+mir-5625	mmu
+mir-5626	mmu
+mir-5627	mmu
+mir-563	cfa,hsa
+mir-564	hsa
+mir-567	hsa
+mir-568	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-5680	hsa
+mir-5681	hsa
+mir-5682	hsa
+mir-5683	hsa
+mir-5684	hsa
+mir-5685	hsa
+mir-5687	hsa
+mir-5688	hsa
+mir-5689	hsa
+mir-569	bac,bta,cfa,hsa,laf,ssc
+mir-5690	hsa
+mir-5691	hsa
+mir-5692	hsa
+mir-5693	hsa
+mir-5694	hsa
+mir-5695	hsa
+mir-5696	hsa
+mir-5697	hsa
+mir-5698	hsa
+mir-5699	hsa
+mir-5700	hsa
+mir-5701	hsa
+mir-5702	bac,bta,cfa,hsa,laf,pku,ssc
+mir-5703	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-5704	hsa
+mir-5705	hsa
+mir-5706	hsa
+mir-5707	hsa
+mir-5709	mmu
+mir-571	hsa
+mir-5710	mmu
+mir-572	bac,hsa,pku,ssc
+mir-573	hsa
+mir-5739	hsa
+mir-574	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-575	hsa
+mir-576	hsa
+mir-577	hsa
+mir-578	cfa,hsa
+mir-5787	hsa
+mir-580	hsa
+mir-581	hsa
+mir-582	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-583	hsa
+mir-584	bac,bta,cfa,hsa,laf,ssc
+mir-585	hsa
+mir-586	hsa
+mir-587	hsa
+mir-588	hsa
+mir-589	cfa,hsa
+mir-590	bac,bta,cfa,hsa,laf,oan,pku,ssc
+mir-591	hsa
+mir-592	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-593	hsa
+mir-595	hsa
+mir-596	hsa
+mir-597	hsa
+mir-598	bac,hsa,laf,mmu,ssc
+mir-599	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-600	hsa
+mir-601	hsa
+mir-602	hsa
+mir-604	hsa
+mir-605	hsa
+mir-606	hsa
+mir-6068	bac,bta,hsa,pku
+mir-6069	hsa
+mir-607	hsa
+mir-6070	hsa
+mir-6071	hsa
+mir-6072	hsa
+mir-6073	hsa
+mir-6074	hsa
+mir-6075	hsa
+mir-6076	hsa
+mir-6077	hsa
+mir-6078	hsa
+mir-6079	hsa
+mir-608	hsa
+mir-6080	hsa
+mir-6081	hsa
+mir-6082	hsa
+mir-6083	hsa
+mir-6084	bac,bta,cfa,hsa,laf,pku,ssc
+mir-6085	hsa
+mir-6086	hsa
+mir-6088	hsa
+mir-6089	hsa
+mir-609	hsa
+mir-6090	hsa
+mir-6091	laf,mmu
+mir-6092	
+mir-610	hsa
+mir-611	hsa
+mir-6119	bac,bta,pku,ssc
+mir-612	hsa
+mir-6120	bta
+mir-6121	bta
+mir-6122	bta
+mir-6123	bac,bta,cfa
+mir-6124	hsa
+mir-6125	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-6126	hsa
+mir-6127	hsa
+mir-6128	hsa
+mir-6129	hsa
+mir-613	hsa
+mir-6130	hsa
+mir-6131	hsa
+mir-6132	bac,bta,hsa,laf,pku,ssc
+mir-6134	hsa
+mir-614	hsa
+mir-615	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-616	hsa
+mir-6165	hsa
+mir-617	hsa
+mir-618	hsa
+mir-619	hsa
+mir-620	hsa
+mir-621	hsa
+mir-6215	mmu
+mir-6216	mmu
+mir-622	bac,cfa,hsa,pku
+mir-623	hsa
+mir-6237	mmu
+mir-6239	mmu
+mir-624	hsa
+mir-6240	mmu
+mir-6241	mmu
+mir-6244	laf,mmu
+mir-625	hsa
+mir-626	hsa
+mir-627	hsa
+mir-628	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-629	hsa
+mir-630	bac,hsa,ssc
+mir-631	bac,bta,cfa,hsa,laf,ssc
+mir-6313	
+mir-6315	mmu
+mir-6316	
+mir-6318	bac,bta,laf,mmu,ssc
+mir-632	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-6322	mmu
+mir-6323	
+mir-6326	mmu
+mir-6328	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-6329	mmu
+mir-633	hsa
+mir-6333	mmu
+mir-6334	
+mir-6335	mmu
+mir-6337	mmu
+mir-6338	mmu
+mir-6339	mmu
+mir-634	hsa
+mir-6340	mmu
+mir-6343	laf,mmu
+mir-6344	mmu
+mir-6346	mmu
+mir-6347	mmu
+mir-6348	mmu
+mir-6349	mmu
+mir-635	hsa
+mir-6350	mmu
+mir-6351	mmu
+mir-6352	hsa,mmu
+mir-6353	mmu
+mir-6354	mmu
+mir-6355	mmu
+mir-6356	mmu
+mir-6357	mmu
+mir-6358	mmu
+mir-6359	mmu
+mir-636	hsa
+mir-6361	mmu
+mir-6362	mmu
+mir-6363	mmu
+mir-6364	mmu
+mir-6365	mmu
+mir-6366	mmu
+mir-6367	mmu
+mir-6368	mmu
+mir-6369	mmu
+mir-637	hsa
+mir-6370	mmu
+mir-6371	mmu
+mir-6372	mmu
+mir-6373	mmu
+mir-6374	mmu
+mir-6375	mmu
+mir-6377	mmu
+mir-6378	mmu
+mir-6379	mmu
+mir-638	bac,bta,cfa,hsa,laf,pku,ssc
+mir-6380	mmu
+mir-6381	mmu
+mir-6382	mmu
+mir-6383	mmu
+mir-6384	mmu
+mir-6385	mmu
+mir-6386	mmu
+mir-6387	mmu
+mir-6388	mmu
+mir-6389	mmu
+mir-639	hsa
+mir-6391	mmu
+mir-6392	mmu
+mir-6393	mmu
+mir-6394	cfa,hsa,laf,mmu,ssc
+mir-6395	mmu
+mir-6396	mmu
+mir-6397	mmu
+mir-6398	mmu
+mir-6399	mmu
+mir-640	hsa
+mir-6400	mmu
+mir-6401	mmu
+mir-6402	bac,mmu,ssc
+mir-6404	mmu
+mir-6406	bac,bta,hsa,laf,mmu,ssc
+mir-6407	mmu
+mir-6408	mmu
+mir-6409	mmu
+mir-641	hsa
+mir-6410	mmu
+mir-6411	mmu
+mir-6412	mmu
+mir-6413	mmu
+mir-6414	mmu
+mir-6415	mmu
+mir-6416	mmu
+mir-6417	mmu
+mir-6418	mmu
+mir-6419	mmu
+mir-642	hsa
+mir-6420	mmu
+mir-643	hsa
+mir-644	hsa
+mir-645	hsa
+mir-646	hsa
+mir-647	hsa
+mir-648	hsa
+mir-6481	mmu
+mir-649	hsa
+mir-6499	hsa
+mir-650	bac,bta,cfa,hsa
+mir-6501	bac,bta,cfa,hsa,laf,ssc
+mir-6502	hsa
+mir-6503	hsa
+mir-6504	hsa
+mir-6505	hsa
+mir-6506	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-6507	hsa
+mir-6508	hsa
+mir-6509	hsa
+mir-651	hsa
+mir-6510	hsa
+mir-6511	hsa
+mir-6512	hsa
+mir-6513	bac,hsa
+mir-6514	hsa
+mir-6515	hsa
+mir-6516	cfa,mmu,pku
+mir-6517	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-6518	bta
+mir-6519	bta
+mir-652	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-6520	bta
+mir-6521	bac,bta
+mir-6522	bta
+mir-6523	bac,bta
+mir-6524	bta
+mir-6525	bta
+mir-6526	bta
+mir-6527	bac,bta,cfa,hsa,pku,sha,ssc
+mir-6528	bac,bta,ssc
+mir-6529	bac,bta,cfa,hsa,laf,pku,ssc
+mir-653	bac,bta,cfa,hsa,mmu,ssc
+mir-6530	bta,mmu
+mir-6531	bta
+mir-6532	bta
+mir-6533	bta
+mir-6534	bta
+mir-6535	bac,bta,cfa,pku,ssc
+mir-6536	bta
+mir-6537	mmu
+mir-6538	mmu
+mir-6539	mmu
+mir-654	bac,bta,cfa,hsa,laf,mmu,pku
+mir-6540	mmu
+mir-6541	mmu
+mir-6546	mmu
+mir-657	hsa
+mir-658	bac,bta,cfa,hsa,laf,ssc
+mir-659	hsa
+mir-661	hsa
+mir-662	hsa,laf,ssc
+mir-663	hsa
+mir-664	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-665	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-666	mmu
+mir-667	mmu
+mir-668	bac,bta,cfa,hsa,mmu,ssc
+mir-670	bac,bta,hsa,laf,mmu,pku,ssc
+mir-671	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-6715	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-6716	hsa
+mir-6717	hsa
+mir-6718	hsa
+mir-6719	hsa
+mir-672	bac,cfa,laf,mmu
+mir-6720	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-6721	hsa
+mir-6722	hsa
+mir-6724	hsa
+mir-6726	hsa
+mir-6727	hsa
+mir-6728	hsa
+mir-6729	hsa
+mir-673	mmu
+mir-6730	hsa
+mir-6731	hsa
+mir-6732	hsa
+mir-6733	hsa
+mir-6734	hsa
+mir-6735	hsa
+mir-6736	cfa,hsa
+mir-6737	hsa
+mir-6738	hsa
+mir-6739	hsa
+mir-674	mmu
+mir-6740	hsa
+mir-6741	hsa
+mir-6742	hsa
+mir-6743	bac,bta,hsa,ssc
+mir-6744	hsa
+mir-6746	hsa
+mir-6747	hsa
+mir-6748	hsa
+mir-6749	hsa
+mir-675	cfa,hsa,laf,mmu
+mir-6750	hsa
+mir-6751	hsa
+mir-6752	hsa
+mir-6754	hsa
+mir-6755	hsa
+mir-6756	hsa
+mir-6757	hsa
+mir-6758	hsa
+mir-6759	bac,hsa
+mir-676	bac,cfa,hsa,laf,mmu,pku,ssc
+mir-6760	hsa
+mir-6761	hsa
+mir-6762	hsa
+mir-6763	hsa
+mir-6764	hsa
+mir-6765	hsa
+mir-6766	hsa
+mir-6767	hsa
+mir-6768	hsa
+mir-6769	hsa,mmu
+mir-677	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-6770	hsa
+mir-6771	hsa
+mir-6772	hsa
+mir-6773	hsa
+mir-6774	hsa
+mir-6775	bta,hsa
+mir-6776	hsa
+mir-6777	hsa
+mir-6778	hsa
+mir-6779	hsa
+mir-678	mmu
+mir-6780	hsa
+mir-6781	hsa
+mir-6782	hsa,ssc
+mir-6783	hsa
+mir-6784	hsa
+mir-6785	hsa
+mir-6786	hsa
+mir-6787	hsa
+mir-6788	hsa
+mir-6789	hsa
+mir-679	mmu
+mir-6790	hsa
+mir-6791	bac,bta,cfa,hsa
+mir-6792	hsa
+mir-6793	hsa
+mir-6794	hsa
+mir-6795	hsa
+mir-6796	bac,cfa,hsa,ssc
+mir-6797	hsa
+mir-6798	hsa
+mir-6799	hsa
+mir-680	mmu
+mir-6800	hsa
+mir-6801	hsa
+mir-6802	hsa
+mir-6803	hsa
+mir-6804	hsa
+mir-6805	hsa
+mir-6806	hsa
+mir-6807	hsa
+mir-6808	hsa
+mir-6809	hsa
+mir-681	mmu
+mir-6810	hsa
+mir-6811	hsa
+mir-6812	hsa
+mir-6813	hsa
+mir-6814	hsa
+mir-6815	hsa
+mir-6816	hsa
+mir-6817	hsa
+mir-6818	hsa
+mir-6819	hsa
+mir-682	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-6820	bac,cfa,hsa
+mir-6821	hsa
+mir-6822	hsa
+mir-6823	hsa
+mir-6824	hsa
+mir-6825	hsa
+mir-6826	hsa
+mir-6827	cfa,hsa,laf
+mir-6828	hsa
+mir-6829	hsa
+mir-683	mmu
+mir-6830	hsa
+mir-6831	cfa,hsa
+mir-6832	hsa
+mir-6833	hsa
+mir-6834	bac,bta,hsa
+mir-6835	hsa
+mir-6836	hsa
+mir-6837	hsa
+mir-6838	hsa
+mir-6839	hsa
+mir-684	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-6840	hsa
+mir-6841	hsa
+mir-6842	bac,bta,cfa,hsa,laf,ssc
+mir-6844	bac,cfa,hsa,pku
+mir-6845	hsa
+mir-6846	hsa
+mir-6847	hsa
+mir-6848	hsa
+mir-6849	hsa
+mir-6850	hsa
+mir-6851	hsa
+mir-6852	hsa,laf
+mir-6853	hsa
+mir-6854	hsa
+mir-6855	hsa
+mir-6856	hsa
+mir-6857	hsa
+mir-6858	hsa
+mir-6859	hsa
+mir-686	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-6860	hsa
+mir-6861	hsa
+mir-6862	hsa
+mir-6863	hsa
+mir-6864	hsa
+mir-6865	hsa
+mir-6866	hsa
+mir-6867	hsa,laf
+mir-6868	hsa
+mir-6869	hsa
+mir-687	mmu
+mir-6870	hsa
+mir-6871	hsa
+mir-6872	hsa
+mir-6873	hsa
+mir-6874	hsa
+mir-6875	hsa
+mir-6876	hsa
+mir-6877	hsa
+mir-6878	bac,cfa,hsa
+mir-6879	hsa
+mir-688	mmu
+mir-6880	hsa
+mir-6881	hsa
+mir-6882	hsa
+mir-6883	hsa
+mir-6884	hsa
+mir-6885	hsa
+mir-6886	hsa
+mir-6887	hsa
+mir-6888	hsa
+mir-6889	hsa
+mir-6890	bta,hsa,ssc
+mir-6891	hsa
+mir-6892	hsa
+mir-6893	hsa
+mir-6894	hsa,ssc
+mir-6895	hsa
+mir-6896	mmu
+mir-6897	mmu
+mir-6898	mmu
+mir-6899	mmu
+mir-690	mmu
+mir-6900	mmu
+mir-6901	mmu
+mir-6902	mmu
+mir-6903	mmu
+mir-6904	mmu
+mir-6905	mmu
+mir-6906	mmu
+mir-6907	mmu
+mir-6908	mmu
+mir-6909	mmu
+mir-691	cfa,hsa,mmu
+mir-6910	mmu
+mir-6911	mmu
+mir-6912	mmu
+mir-6913	mmu
+mir-6914	mmu
+mir-6915	mmu
+mir-6916	mmu
+mir-6917	mmu
+mir-6918	mmu
+mir-6919	mmu
+mir-692	mmu
+mir-6920	mmu
+mir-6921	mmu
+mir-6922	mmu
+mir-6923	mmu
+mir-6924	mmu
+mir-6925	mmu
+mir-6926	mmu
+mir-6927	mmu
+mir-6928	mmu
+mir-6929	mmu
+mir-693	mmu
+mir-6930	mmu
+mir-6931	mmu
+mir-6932	mmu
+mir-6933	mmu
+mir-6934	mmu
+mir-6935	mmu
+mir-6936	mmu
+mir-6937	mmu
+mir-6938	mmu
+mir-6939	mmu
+mir-694	mmu
+mir-6940	mmu
+mir-6941	mmu
+mir-6942	mmu
+mir-6943	mmu
+mir-6944	mmu
+mir-6945	mmu
+mir-6946	mmu
+mir-6947	mmu
+mir-6948	mmu
+mir-6949	mmu
+mir-695	mmu
+mir-6950	mmu
+mir-6951	mmu
+mir-6952	mmu
+mir-6953	mmu
+mir-6954	mmu
+mir-6955	mmu
+mir-6956	mmu
+mir-6957	mmu
+mir-6958	mmu
+mir-6959	mmu
+mir-696	
+mir-6960	mmu
+mir-6961	mmu
+mir-6962	mmu
+mir-6963	mmu
+mir-6964	mmu
+mir-6965	mmu
+mir-6966	mmu
+mir-6967	mmu
+mir-6968	mmu
+mir-6969	mmu
+mir-697	mmu
+mir-6970	mmu
+mir-6971	mmu
+mir-6972	mmu
+mir-6973	mmu
+mir-6974	mmu
+mir-6975	mmu
+mir-6976	mmu
+mir-6977	mmu
+mir-6978	mmu
+mir-6979	mmu
+mir-698	mmu
+mir-6980	mmu
+mir-6981	mmu
+mir-6982	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-6983	mmu
+mir-6984	mmu
+mir-6985	mmu
+mir-6986	mmu
+mir-6987	mmu
+mir-6988	mmu
+mir-6989	mmu
+mir-6990	bac,cfa,hsa,laf,mmu,pku,ssc
+mir-6991	mmu
+mir-6992	mmu
+mir-6993	mmu
+mir-6994	mmu
+mir-6995	mmu
+mir-6996	mmu
+mir-6997	mmu
+mir-6998	mmu
+mir-6999	mmu
+mir-7	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-700	mmu
+mir-7000	mmu
+mir-7001	mmu
+mir-7002	mmu
+mir-7003	mmu
+mir-7004	mmu
+mir-7005	mmu
+mir-7006	mmu
+mir-7007	mmu
+mir-7008	mmu
+mir-7009	mmu
+mir-701	mmu
+mir-7010	mmu
+mir-7011	mmu
+mir-7012	mmu
+mir-7013	mmu
+mir-7014	mmu
+mir-7015	mmu
+mir-7016	mmu
+mir-7017	mmu
+mir-7018	mmu
+mir-7019	mmu
+mir-702	mmu
+mir-7020	mmu
+mir-7021	mmu
+mir-7022	mmu
+mir-7023	mmu
+mir-7024	mmu
+mir-7025	mmu
+mir-7026	mmu
+mir-7027	mmu
+mir-7028	mmu
+mir-7029	mmu
+mir-703	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-7030	mmu
+mir-7031	mmu
+mir-7032	mmu
+mir-7033	mmu
+mir-7034	mmu
+mir-7035	mmu
+mir-7036	mmu
+mir-7037	mmu
+mir-7038	mmu
+mir-7039	mmu
+mir-704	mmu
+mir-7040	mmu
+mir-7041	mmu
+mir-7042	mmu
+mir-7043	mmu
+mir-7044	mmu
+mir-7045	bac,laf,mmu,pku
+mir-7046	mmu
+mir-7047	mmu
+mir-7048	mmu
+mir-7049	mmu
+mir-705	mmu
+mir-7050	mmu
+mir-7051	mmu
+mir-7052	mmu
+mir-7053	mmu
+mir-7054	mmu
+mir-7055	mmu
+mir-7056	mmu
+mir-7057	mmu
+mir-7058	mmu
+mir-7059	mmu
+mir-706	mmu
+mir-7061	mmu
+mir-7062	mmu
+mir-7063	mmu
+mir-7064	mmu
+mir-7065	mmu
+mir-7066	mmu
+mir-7067	mmu
+mir-7068	mmu
+mir-7069	mmu
+mir-707	mmu
+mir-7070	mmu
+mir-7071	mmu
+mir-7072	mmu
+mir-7073	mmu
+mir-7074	mmu
+mir-7075	mmu
+mir-7076	mmu
+mir-7077	mmu
+mir-7078	mmu
+mir-7079	mmu
+mir-708	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7080	mmu
+mir-7081	mmu
+mir-7082	mmu
+mir-7083	mmu
+mir-7084	mmu
+mir-7085	mmu
+mir-7086	mmu
+mir-7087	mmu
+mir-7088	mmu
+mir-7089	mmu
+mir-709	mmu
+mir-7090	mmu
+mir-7091	mmu
+mir-7092	mmu
+mir-7093	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7094	mmu
+mir-710	mmu
+mir-7106	hsa
+mir-7107	hsa
+mir-7108	hsa
+mir-7109	hsa
+mir-711	bac,cfa,hsa,laf,mmu,pku
+mir-7110	hsa
+mir-7111	hsa
+mir-7112	hsa
+mir-7113	hsa
+mir-7114	hsa
+mir-7115	mmu
+mir-7116	mmu
+mir-7117	mmu
+mir-7118	mmu
+mir-7119	mmu
+mir-712	mmu
+mir-713	mmu
+mir-7134	bac,bta,ssc
+mir-7135	ssc
+mir-7136	ssc
+mir-7137	ssc
+mir-7138	bac,bta,cfa,hsa,ssc
+mir-7139	ssc
+mir-714	
+mir-7140	ssc
+mir-7141	ssc
+mir-7142	bac,ssc
+mir-7143	bac,bta,cfa,hsa,laf,pku,ssc
+mir-7144	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7150	bac,bta,cfa,hsa,ssc
+mir-7151	hsa
+mir-7152	hsa
+mir-7153	hsa
+mir-7154	hsa
+mir-7155	hsa
+mir-7156	hsa
+mir-7157	hsa
+mir-7158	hsa
+mir-7159	hsa
+mir-7160	hsa
+mir-7161	hsa
+mir-7162	hsa
+mir-7163	bac,hsa,pku,ssc
+mir-7164	hsa
+mir-7165	hsa
+mir-7166	hsa
+mir-7167	cfa,hsa,ssc
+mir-7168	hsa
+mir-7169	hsa
+mir-717	mmu
+mir-7170	cfa,hsa
+mir-7171	
+mir-7172	hsa
+mir-7173	hsa
+mir-7174	hsa
+mir-7175	hsa
+mir-7176	bac,hsa
+mir-7177	bac,bta,cfa,hsa,laf,mmu,sha,ssc
+mir-7178	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7179	
+mir-718	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7180	bac,bta,cfa,laf,ssc
+mir-7181	hsa
+mir-7182	
+mir-7183	hsa
+mir-7184	hsa
+mir-7185	hsa
+mir-7186	hsa
+mir-7187	hsa
+mir-7188	hsa
+mir-7189	
+mir-719	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-7190	hsa
+mir-7191	hsa
+mir-7192	hsa
+mir-7193	hsa
+mir-7194	bac,hsa,laf
+mir-7195	hsa
+mir-7196	hsa
+mir-7197	hsa
+mir-7198	hsa
+mir-7199	hsa
+mir-7200	hsa
+mir-7201	cfa,hsa,laf,pku
+mir-7202	hsa
+mir-7203	
+mir-7204	hsa
+mir-7205	
+mir-7206	hsa
+mir-7207	
+mir-7208	hsa
+mir-721	mmu
+mir-7210	mmu
+mir-7211	mmu
+mir-7212	mmu
+mir-7213	mmu
+mir-7214	mmu
+mir-7215	mmu
+mir-7216	mmu
+mir-7217	mmu
+mir-7218	mmu
+mir-7219	mmu
+mir-7220	mmu
+mir-7221	mmu
+mir-7222	mmu
+mir-7223	mmu
+mir-7224	mmu
+mir-7225	mmu
+mir-7226	mmu
+mir-7227	mmu
+mir-7228	mmu
+mir-7229	mmu
+mir-7230	mmu
+mir-7231	mmu
+mir-7232	mmu
+mir-7233	mmu
+mir-7234	mmu
+mir-7235	mmu
+mir-7236	mmu
+mir-7237	mmu
+mir-7238	mmu
+mir-7239	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-7240	mmu
+mir-7241	mmu
+mir-7242	mmu
+mir-7243	mmu
+mir-7244	sha
+mir-7245	
+mir-7246	sha
+mir-7247	sha
+mir-7248	sha
+mir-7249	sha
+mir-7250	sha
+mir-7251	sha
+mir-7252	
+mir-7253	sha
+mir-7254	sha
+mir-7255	
+mir-7256	
+mir-7257	sha
+mir-7258	sha
+mir-7259	
+mir-7260	
+mir-7261	
+mir-7262	sha
+mir-7263	
+mir-7264	sha
+mir-7265	sha
+mir-7266	sha
+mir-7267	sha
+mir-7268	sha
+mir-7269	sha
+mir-7270	
+mir-7271	sha
+mir-7272	
+mir-7273	
+mir-7274	
+mir-7275	
+mir-7276	
+mir-7277	
+mir-7278	sha
+mir-7279	
+mir-7280	sha
+mir-7281	sha
+mir-7282	sha
+mir-7283	sha
+mir-7284	sha
+mir-7285	sha
+mir-7286	sha
+mir-7287	
+mir-7288	sha
+mir-7289	
+mir-7290	sha
+mir-7291	
+mir-7292	sha
+mir-7293	sha
+mir-7294	
+mir-7295	
+mir-7296	
+mir-7297	sha
+mir-7298	
+mir-7299	bac,sha
+mir-7300	
+mir-7301	
+mir-7302	
+mir-7303	
+mir-7304	sha
+mir-7305	sha
+mir-7306	
+mir-7307	
+mir-7308	sha
+mir-7309	sha
+mir-7310	sha
+mir-7311	sha
+mir-7312	
+mir-7313	sha
+mir-7314	sha
+mir-7315	
+mir-7316	sha
+mir-7317	hsa,sha
+mir-7318	sha
+mir-7319	sha
+mir-7320	sha
+mir-7321	
+mir-7322	sha
+mir-7323	sha
+mir-7324	
+mir-7325	sha
+mir-7326	sha
+mir-7327	sha
+mir-7328	sha
+mir-7329	sha
+mir-7330	
+mir-7331	sha
+mir-7332	sha
+mir-7333	sha
+mir-7334	sha
+mir-7335	
+mir-7336	sha
+mir-7337	sha
+mir-7338	sha
+mir-7339	sha
+mir-7340	
+mir-7341	
+mir-7342	sha
+mir-7343	sha
+mir-7344	
+mir-7345	
+mir-7346	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-7347	
+mir-7348	sha
+mir-7349	
+mir-7350	
+mir-7351	sha
+mir-7352	
+mir-7353	sha
+mir-7354	sha
+mir-7355	
+mir-7356	sha
+mir-7357	
+mir-7358	
+mir-7359	
+mir-7360	
+mir-7361	
+mir-7362	
+mir-7363	sha
+mir-7364	
+mir-7365	
+mir-7366	
+mir-7367	
+mir-7368	sha
+mir-7369	
+mir-7370	sha
+mir-7371	sha
+mir-7372	
+mir-7373	sha
+mir-7374	sha
+mir-7375	sha
+mir-7376	sha
+mir-7377	sha
+mir-7378	sha
+mir-7379	sha
+mir-7380	sha
+mir-7381	sha
+mir-7382	sha
+mir-7383	sha
+mir-7384	sha
+mir-7385	sha
+mir-7386	sha
+mir-7387	sha
+mir-7388	sha
+mir-7389	
+mir-7390	sha
+mir-7391	sha
+mir-7392	
+mir-7393	
+mir-7394	sha
+mir-7395	
+mir-7396	
+mir-7397	
+mir-7398	sha
+mir-7399	
+mir-7400	oan
+mir-7401	oan
+mir-7402	oan
+mir-7403	oan
+mir-7404	oan
+mir-7405	oan
+mir-7406	oan
+mir-7407	oan
+mir-7408	oan
+mir-7409	oan
+mir-7410	oan
+mir-7411	oan
+mir-7412	oan
+mir-7413	oan
+mir-7414	oan
+mir-7415	oan
+mir-7416	oan
+mir-7417	oan
+mir-7418	oan
+mir-7419	oan
+mir-742	mmu
+mir-7420	oan
+mir-7421	oan
+mir-7422	oan
+mir-7423	oan
+mir-7424	oan
+mir-7425	oan
+mir-7426	oan
+mir-7427	oan
+mir-7428	oan
+mir-7429	oan
+mir-743	hsa,mmu
+mir-7430	oan
+mir-7431	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-7432	oan
+mir-7433	oan
+mir-7434	hsa,laf,oan
+mir-7435	oan
+mir-7436	oan
+mir-744	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7515	hsa
+mir-7578	mmu
+mir-759	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-760	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-761	bac,bta,cfa,hsa,laf,mmu,sha,ssc
+mir-762	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-763	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-764	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7646	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7647	mmu
+mir-7648	mmu
+mir-7649	mmu
+mir-765	hsa
+mir-7650	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7651	mmu
+mir-7652	mmu
+mir-7653	cfa,mmu,ssc
+mir-7654	
+mir-7655	mmu
+mir-7656	mmu
+mir-7657	mmu
+mir-7658	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-7659	mmu
+mir-766	bac,bta,hsa,laf,ssc
+mir-7660	mmu
+mir-7661	mmu
+mir-7662	mmu
+mir-7663	mmu
+mir-7664	mmu
+mir-7665	mmu
+mir-7666	mmu
+mir-7667	mmu
+mir-7668	mmu
+mir-7669	mmu
+mir-767	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-7670	mmu
+mir-7671	mmu
+mir-7672	mmu
+mir-7673	mmu
+mir-7674	mmu
+mir-7675	mmu
+mir-7676	mmu
+mir-7677	mmu
+mir-7678	mmu
+mir-7679	mmu
+mir-7680	mmu
+mir-7681	mmu
+mir-7682	mmu
+mir-7683	mmu
+mir-7684	mmu
+mir-7685	mmu
+mir-7686	mmu
+mir-7687	mmu
+mir-7688	mmu
+mir-7689	bac,cfa,hsa,laf,mmu,oan,ssc
+mir-769	bac,bta,cfa,hsa,laf,ssc
+mir-7691	bta
+mir-770	hsa,mmu,ssc
+mir-7702	hsa
+mir-7703	hsa
+mir-7704	bac,cfa,hsa,mmu,ssc
+mir-7705	bac,bta,cfa,hsa,laf,pku,sha,ssc
+mir-7706	bac,cfa,hsa,ssc
+mir-7843	hsa
+mir-7845	hsa
+mir-7846	hsa
+mir-7847	hsa
+mir-7848	hsa
+mir-7849	hsa
+mir-7850	hsa
+mir-7852	hsa
+mir-7854	hsa
+mir-7855	hsa
+mir-7856	hsa
+mir-7857	bac,bta,ssc
+mir-7858	bta
+mir-7859	bta,pku,ssc
+mir-7860	bta
+mir-7861	bta
+mir-7862	bta,ssc
+mir-7863	bta
+mir-7864	bac,bta
+mir-7865	bta
+mir-7973	hsa
+mir-7974	hsa
+mir-7975	hsa
+mir-7976	hsa
+mir-7977	hsa
+mir-7978	hsa
+mir-8	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-802	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-804	mmu
+mir-8052	hsa
+mir-8053	bac,cfa,hsa,laf
+mir-8054	hsa
+mir-8055	hsa
+mir-8056	hsa
+mir-8057	hsa
+mir-8058	hsa
+mir-8059	hsa
+mir-8060	hsa
+mir-8061	hsa
+mir-8062	hsa
+mir-8063	hsa
+mir-8064	hsa
+mir-8065	hsa
+mir-8066	hsa
+mir-8067	hsa
+mir-8068	hsa
+mir-8069	hsa
+mir-8070	hsa
+mir-8071	hsa
+mir-8072	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-8073	hsa
+mir-8074	hsa
+mir-8075	hsa
+mir-8076	hsa
+mir-8077	hsa
+mir-8078	hsa
+mir-8079	hsa
+mir-8080	hsa
+mir-8081	bac,cfa,hsa,laf
+mir-8082	hsa
+mir-8083	hsa
+mir-8084	hsa
+mir-8085	hsa
+mir-8086	hsa
+mir-8087	hsa
+mir-8088	hsa
+mir-8089	hsa
+mir-8092	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-8094	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-8097	mmu
+mir-8101	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-8103	mmu
+mir-8104	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-8105	mmu
+mir-8107	mmu
+mir-8108	mmu
+mir-8109	mmu
+mir-8110	mmu
+mir-8114	mmu
+mir-8115	mmu
+mir-8116	mmu
+mir-8117	mmu
+mir-8485	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-8548	bta
+mir-8549	bac,bta
+mir-8550	bac,bta
+mir-872	bac,cfa,laf,mmu,ssc
+mir-873	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-874	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-875	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-876	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-877	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-878	mmu
+mir-879	mmu
+mir-8793	cfa
+mir-8794	cfa
+mir-8795	cfa
+mir-8799	cfa
+mir-880	mmu
+mir-8801	cfa
+mir-8804	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-8807	cfa
+mir-8808	cfa
+mir-881	mmu
+mir-8810	bac,bta,cfa,hsa,laf,pku,ssc
+mir-8811	cfa
+mir-882	mmu
+mir-8822	cfa
+mir-8826	cfa
+mir-883	mmu
+mir-8830	cfa
+mir-8837	cfa
+mir-8841	cfa
+mir-8842	bac,bta,cfa,laf,ssc
+mir-8847	cfa
+mir-8849	cfa
+mir-885	bac,bta,cfa,hsa,laf,pku,sha,ssc
+mir-8851	cfa
+mir-8859	cfa
+mir-8861	cfa
+mir-8863	cfa
+mir-8864	cfa
+mir-8869	cfa
+mir-887	hsa
+mir-8872	cfa,hsa
+mir-8874	cfa
+mir-8878	cfa
+mir-8887	bac,cfa,pku,ssc
+mir-889	bac,cfa,hsa,laf,pku
+mir-8893	cfa
+mir-8896	bac,cfa,laf
+mir-8901	cfa
+mir-8902	cfa
+mir-8904	cfa
+mir-8908	bac,bta,cfa,pku
+mir-8909	
+mir-891	hsa
+mir-8912	
+mir-8915	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-8918	bac,bta,cfa,hsa,ssc
+mir-8920	
+mir-8921	
+mir-8924	
+mir-8925	
+mir-8928	
+mir-8931	
+mir-8937	
+mir-8938	
+mir-8940	
+mir-8942	cfa
+mir-8943	
+mir-8944	
+mir-8959	
+mir-8962	bac
+mir-8965	bta,cfa,ssc
+mir-8967	
+mir-8980	
+mir-8981	hsa,ssc
+mir-8984	
+mir-8986	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-8987	bta,cfa,ssc
+mir-8992	
+mir-8993	
+mir-8998	
+mir-9	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9000	
+mir-9002	
+mir-9004	
+mir-9010	
+mir-9014	
+mir-9021	
+mir-9024	
+mir-9032	
+mir-9036	bac,ssc
+mir-9039	
+mir-9040	
+mir-9046	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-9051	bac,cfa,hsa
+mir-9052	
+mir-9055	
+mir-9059	
+mir-9062	
+mir-9085	
+mir-9086	hsa,ssc
+mir-9089	
+mir-9101	bac,bta,cfa,hsa,laf,mmu
+mir-9106	
+mir-9107	
+mir-9108	
+mir-9112	cfa
+mir-9113	
+mir-9114	
+mir-9117	bac,bta,cfa,hsa,ssc
+mir-9118	
+mir-9120	
+mir-9128	
+mir-9130	bac,bta,cfa,hsa,laf,ssc
+mir-9134	
+mir-9135	
+mir-9146	
+mir-9150	bac
+mir-9152	
+mir-9156	
+mir-9158	bac,bta,cfa,hsa,laf,pku,ssc
+mir-9161	
+mir-9165	
+mir-9169	
+mir-9171	
+mir-9174	
+mir-9179	
+mir-9181	
+mir-9184	
+mir-9186	pku
+mir-9187	pku
+mir-9188	
+mir-9190	
+mir-9191	
+mir-9192	pku
+mir-9193	pku
+mir-9194	pku
+mir-9195	pku
+mir-9196	pku
+mir-9197	pku
+mir-9198	pku
+mir-9199	pku
+mir-92	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-920	bac,hsa
+mir-9200	pku
+mir-9201	pku
+mir-9202	pku
+mir-9203	pku
+mir-9204	pku
+mir-9205	pku
+mir-9206	pku
+mir-9207	pku
+mir-9208	
+mir-9209	pku
+mir-921	hsa
+mir-9210	pku
+mir-9211	pku
+mir-9212	
+mir-9213	laf,pku
+mir-9214	pku
+mir-9215	pku
+mir-9216	pku
+mir-9217	pku
+mir-9218	
+mir-9219	pku
+mir-922	bac,hsa
+mir-9220	pku
+mir-9222	bac,bta,cfa,hsa,laf,pku,ssc
+mir-9223	pku
+mir-9224	
+mir-9225	pku
+mir-9226	
+mir-9227	pku
+mir-9228	
+mir-9229	pku
+mir-9230	pku
+mir-9231	pku
+mir-9232	pku
+mir-9233	pku
+mir-9234	pku
+mir-9235	pku
+mir-9236	pku
+mir-9237	pku
+mir-9238	pku
+mir-9239	pku
+mir-924	hsa
+mir-9240	pku
+mir-9241	pku
+mir-9242	pku
+mir-9243	pku
+mir-9244	
+mir-9245	pku
+mir-9246	pku
+mir-9247	pku
+mir-9248	pku
+mir-9249	pku
+mir-9250	pku
+mir-9251	pku
+mir-9252	pku
+mir-9253	mmu,pku
+mir-9254	pku
+mir-9255	pku
+mir-9256	pku
+mir-9257	pku
+mir-9258	pku
+mir-9259	pku
+mir-9260	bac,bta,cfa,laf,pku,ssc
+mir-9261	pku
+mir-9262	
+mir-9263	pku
+mir-9264	pku
+mir-9265	
+mir-9266	
+mir-9267	
+mir-9268	
+mir-9269	
+mir-9270	
+mir-9271	
+mir-9272	pku
+mir-9273	pku
+mir-9274	
+mir-9275	pku
+mir-9276	pku
+mir-9277	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9278	
+mir-9279	
+mir-9280	pku
+mir-9281	pku
+mir-9282	pku
+mir-9283	
+mir-9284	pku
+mir-9285	
+mir-9286	
+mir-9287	pku
+mir-9288	pku
+mir-9289	pku
+mir-9290	
+mir-9291	pku
+mir-9292	pku
+mir-9293	pku
+mir-9294	pku
+mir-9295	pku
+mir-9296	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-9297	pku
+mir-9298	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-9299	cfa,mmu,pku,ssc
+mir-9300	pku
+mir-9301	
+mir-9302	pku
+mir-9303	
+mir-9304	
+mir-9306	pku
+mir-9307	bac,bta,cfa,hsa,laf,mmu,oan,pku,ssc
+mir-9308	
+mir-9309	pku
+mir-9310	
+mir-9311	pku
+mir-9312	
+mir-9313	hsa,pku
+mir-9314	
+mir-9315	
+mir-9316	pku
+mir-9317	
+mir-9318	pku
+mir-9319	pku
+mir-9320	pku
+mir-9321	bac,cfa,laf,oan,pku,ssc
+mir-9322	
+mir-9323	bac,bta,hsa,pku,ssc
+mir-9324	bac,hsa,laf,pku,ssc
+mir-9325	bac,pku
+mir-9326	
+mir-9327	
+mir-9328	
+mir-9329	
+mir-933	hsa
+mir-9330	
+mir-9331	bac,bta,cfa,pku,ssc
+mir-9332	pku
+mir-9333	
+mir-9334	bac,bta,cfa,hsa,laf,mmu,pku,sha,ssc
+mir-9335	pku
+mir-9336	pku
+mir-9337	bac,bta,pku,ssc
+mir-9338	
+mir-9339	
+mir-934	hsa
+mir-9340	pku
+mir-9341	
+mir-9342	pku
+mir-9343	pku
+mir-9344	cfa,pku
+mir-9345	pku
+mir-9346	pku
+mir-9347	pku
+mir-9348	pku
+mir-9349	pku
+mir-935	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-9350	pku
+mir-9351	pku
+mir-9352	
+mir-9353	
+mir-9354	pku
+mir-9355	
+mir-9356	
+mir-9357	
+mir-9358	pku
+mir-9359	bac,pku
+mir-936	hsa
+mir-9360	bac,pku
+mir-9361	pku
+mir-9362	pku
+mir-9363	
+mir-9364	
+mir-9365	
+mir-9366	bac,bta,cfa,hsa,mmu,pku,ssc
+mir-9367	
+mir-9368	pku
+mir-937	hsa
+mir-938	hsa
+mir-939	hsa
+mir-940	bta,cfa,hsa,ssc
+mir-941	hsa
+mir-942	hsa
+mir-943	hsa
+mir-944	hsa
+mir-95	bac,bta,cfa,hsa,laf,mmu,pku,ssc
+mir-9500	hsa
+mir-96	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9718	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9769	mmu
+mir-9771	
+mir-9784	ssc
+mir-9785	ssc
+mir-9786	bac,ssc
+mir-9787	ssc
+mir-9788	bac,bta,cfa,hsa,laf,pku,ssc
+mir-9789	bta,ssc
+mir-9790	ssc
+mir-9791	ssc
+mir-9792	ssc
+mir-9793	ssc
+mir-9794	bta,ssc
+mir-9795	ssc
+mir-9796	bac,bta,cfa,hsa,laf,pku,ssc
+mir-9797	ssc
+mir-9798	ssc
+mir-9799	ssc
+mir-9800	bac,bta,ssc
+mir-9801	bac,ssc
+mir-9802	ssc
+mir-9803	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9804	bta,ssc
+mir-9805	ssc
+mir-9806	
+mir-9807	ssc
+mir-9808	ssc
+mir-9809	ssc
+mir-9810	bac,ssc
+mir-9811	bac,bta,hsa,mmu,pku,sha,ssc
+mir-9812	laf,ssc
+mir-9813	ssc
+mir-9814	ssc
+mir-9815	ssc
+mir-9816	ssc
+mir-9817	ssc
+mir-9818	bac,bta,cfa,hsa,laf,mmu,ssc
+mir-9819	ssc
+mir-9820	ssc
+mir-9821	ssc
+mir-9822	bac,cfa,ssc
+mir-9823	bac,ssc
+mir-9824	ssc
+mir-9825	ssc
+mir-9826	ssc
+mir-9827	ssc
+mir-9828	ssc
+mir-9829	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9830	bac,bta,ssc
+mir-9831	ssc
+mir-9832	bac,ssc
+mir-9833	bac,ssc
+mir-9834	ssc
+mir-9835	ssc
+mir-9836	ssc
+mir-9837	bac,ssc
+mir-9838	bac,bta,cfa,hsa,laf,pku,ssc
+mir-9839	ssc
+mir-9840	bac,bta,cfa,hsa,laf,pku,sha,ssc
+mir-9841	ssc
+mir-9842	bac,ssc
+mir-9843	ssc
+mir-9844	ssc
+mir-9845	ssc
+mir-9846	ssc
+mir-9847	ssc
+mir-9848	ssc
+mir-9849	ssc
+mir-9850	bac,ssc
+mir-9851	bac,bta,cfa,hsa,laf,ssc
+mir-9852	bac,ssc
+mir-9853	ssc
+mir-9854	cfa,ssc
+mir-9855	ssc
+mir-9856	ssc
+mir-9857	ssc
+mir-9858	bac,laf,ssc
+mir-9859	bac,ssc
+mir-9860	bac,bta,hsa,laf,pku,ssc
+mir-9861	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9862	
+mir-9898	hsa
+mir-9899	hsa
+mir-9900	bac,bta,hsa,laf,pku,ssc
+mir-9901	hsa
+mir-9902	hsa
+mir-9903	hsa
+mir-9904	bac,cfa,hsa,ssc
+mir-9906	hsa
+mir-9907	
+mir-9908	hsa
+mir-9909	hsa
+mir-9911	hsa
+mir-9912	hsa
+mir-9913	
+mir-9915	
+mir-9916	
+mir-9917	
+mir-9918	
+mir-9919	hsa
+mir-9921	
+mir-9925	
+mir-9926	hsa
+mir-9927	hsa
+mir-9929	
+mir-9930	
+mir-9934	
+mir-9935	bta,hsa,laf,mmu
+mir-9936	
+mir-9937	hsa
+mir-9938	
+mir-9939	hsa
+mir-9941	
+mir-9944	
+mir-9946	hsa
+mir-9947	hsa
+mir-9949	bac,bta,cfa,hsa,laf,pku,sha
+mir-9950	
+mir-9951	bta,hsa
+mir-9952	
+mir-9953	
+mir-9956	hsa
+mir-9957	
+mir-9958	
+mir-9959	
+mir-9960	bac,cfa,hsa
+mir-9961	hsa
+mir-9963	hsa
+mir-9965	hsa
+mir-9966	hsa
+mir-9967	hsa
+mir-9968	bac,hsa
+mir-9970	
+mir-9972	hsa
+mir-9973	hsa
+mir-9974	hsa
+mir-9975	
+mir-9976	
+mir-9977	hsa
+mir-9978	hsa
+mir-9979	
+mir-9980	hsa
+mir-9981	
+mir-9982	hsa
+mir-9983	bac,bta,cfa,hsa,laf,mmu,oan,pku,sha,ssc
+mir-9984	bac,bta,hsa,laf,pku,ssc
+mir-9985	hsa
+mir-9986	hsa
+mir-9987	
+mir-9988	bac
+mir-9989	
+mir-9990	
+mir-9991	
+mir-9992	
+mir-9993	
+mir-9994	
+mir-9995	bta
+mir-9996	cfa,hsa,laf,pku
+mir-9997	
+mir-9998	
+mir-9999	bac,bta,cfa,hsa
