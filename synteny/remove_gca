@@ -1,0 +1,11 @@
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^pha/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^tin/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^tbe/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^meu/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^lla/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^tte/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^dma/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^ddu/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^lpi/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^sla/d' "$file"; done
+(base) sarahjane@Sarahjane:.../cleaned$ for file in *.synteny; do sed -i '/^age/d' "$file"; done

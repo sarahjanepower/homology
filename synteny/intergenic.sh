@@ -1,0 +1,1 @@
+for file in *.flank11.tsv; do awk -F'\t' '{exit !($6==$8)}' "$file" && echo "$file intergenic" || echo "$file not intergenic"; done |  cut -d' ' -f2- | sort | uniq -c

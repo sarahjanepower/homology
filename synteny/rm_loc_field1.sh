@@ -1,0 +1,1 @@
+for file in *flank11.tsv; do     tmp=$(mktemp);     awk -F'\t' 'BEGIN{OFS="\t"} {split($1,a,"_"); $1=a[1]; print}' "$file" > "$tmp" && mv "$tmp" "$file"; done
