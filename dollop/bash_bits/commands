@@ -1,0 +1,4 @@
+sed 's/,/\t/4;s/,/\t/3;s/,/\t/2;s/,/\t/1' hmm > mmhmm
+
+replacing first 4 commas with tabs
+
